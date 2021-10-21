@@ -1,0 +1,32 @@
+##Data Types 
+	Primitive
+		Integer(4 bytes)
+		Float()
+		Character	
+		Boolean
+
+Range of Integer 
+(2^32)-1
+
+To tell negative integer
+
+_ _ _ _ _ _ _ _ _ ......... like that, so the first space shows the sign of the number{(0 +ve), (1 -ve)}
+
+like that so 1 is occupied, so total numbers are (2^31)-1
+
+$Float
+we can save upto 7 decimal places. (size 4 bits)
+$Double
+we can save upto 15 decimal places.(size 8 bits)
+$Char
+simple ascii table
+$Long int
+type of data type to increase size of int from 4 to 8
+$Short Int
+type of data type to reduce size ofint form 4 to 2
+
+TIP:- When changing or using various data types always build the program again, then compile, then execute.... it might give some errors otherwise
+
+
+##Input and Output
+
